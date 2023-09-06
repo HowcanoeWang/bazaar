@@ -1,6 +1,124 @@
 {
   "repos": [
     {
+      "url": "StarDustSheep/pink-room@1a1b1299f98d1dbf09afa43fe8b0ff67972f65a0",
+      "updated": "2023-09-05T23:57:59Z",
+      "stars": 12,
+      "openIssues": 0,
+      "size": 229992,
+      "package": {
+        "name": "pink-room",
+        "author": "StarDustSheep",
+        "url": "https://github.com/StarDustSheep/pink-room",
+        "version": "0.8.8",
+        "minAppVersion": "",
+        "backends": null,
+        "frontends": null,
+        "displayName": {
+          "default": "pink-room",
+          "zh_CN": "粉色小屋",
+          "en_US": ""
+        },
+        "description": {
+          "default": "It's a stylize theme for Siyuan. \u003cbr\u003e In addition to the pink interface there are also blue and green interfaces.",
+          "zh_CN": "这是一个浅色风格化主题。除了粉色界面外还另有蓝色和绿色界面",
+          "en_US": ""
+        },
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": ""
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://afdian.net/order/create?user_id=3ced5134eee011eda1375254001e7c00"
+          ]
+        }
+      }
+    },
+    {
+      "url": "Zuoqiu-Yingyi/siyuan-theme-dark-plus@1349c942ca000566d074bab6f7e4354cc764135d",
+      "updated": "2023-09-05T17:20:39Z",
+      "stars": 132,
+      "openIssues": 11,
+      "size": 9113413,
+      "package": {
+        "name": "Dark+",
+        "author": "Zuoqiu Yingyi",
+        "url": "https://github.com/Zuoqiu-Yingyi/siyuan-theme-dark-plus",
+        "version": "1.10.1",
+        "minAppVersion": "2.10.2",
+        "backends": null,
+        "frontends": null,
+        "displayName": {
+          "default": "Dark+",
+          "zh_CN": "暗色+",
+          "en_US": ""
+        },
+        "description": {
+          "default": "This is a multifunctional dual-mode theme",
+          "zh_CN": "这是一款多功能双模式主题",
+          "en_US": ""
+        },
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": ""
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://afdian.net/a/zuoqiu",
+            "https://ko-fi.com/zuoqiu"
+          ]
+        }
+      }
+    },
+    {
+      "url": "royc01/notion-theme@3c1d02f71a965394aca65673fe033c45ca9f28dd",
+      "updated": "2023-09-05T14:17:33Z",
+      "stars": 90,
+      "openIssues": 6,
+      "size": 2141519,
+      "package": {
+        "name": "Savor",
+        "author": "Roy",
+        "url": "https://github.com/royc01/notion-theme",
+        "version": "3.5.8",
+        "minAppVersion": "",
+        "backends": null,
+        "frontends": null,
+        "displayName": {
+          "default": "Savor",
+          "zh_CN": "写未",
+          "en_US": ""
+        },
+        "description": {
+          "default": "You said you couldn’t bear to consume such a feeling.",
+          "zh_CN": "你说你舍不得吃掉这一种感觉。",
+          "en_US": ""
+        },
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": ""
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://afdian.net/a/Savor"
+          ]
+        }
+      }
+    },
+    {
       "url": "RQYOU/SiYuan-Theme-Hazy-Moonlight@79ff04b5caaa66024085b49bd2f7d377d0525a41",
       "updated": "2023-09-04T13:32:23Z",
       "stars": 4,
@@ -168,45 +286,6 @@
       }
     },
     {
-      "url": "StarDustSheep/pink-room@5f8d34ea7f67688ee9c8f20b0e52803ede473d27",
-      "updated": "2023-08-29T05:30:28Z",
-      "stars": 12,
-      "openIssues": 1,
-      "size": 229878,
-      "package": {
-        "name": "pink-room",
-        "author": "StarDustSheep",
-        "url": "https://github.com/StarDustSheep/pink-room",
-        "version": "0.8.7",
-        "minAppVersion": "",
-        "backends": null,
-        "frontends": null,
-        "displayName": {
-          "default": "pink-room",
-          "zh_CN": "粉色小屋",
-          "en_US": ""
-        },
-        "description": {
-          "default": "It's a stylize theme for Siyuan. \u003cbr\u003e In addition to the pink interface there are also blue and green interfaces.",
-          "zh_CN": "这是一个浅色风格化主题。除了粉色界面外还另有蓝色和绿色界面",
-          "en_US": ""
-        },
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": ""
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://afdian.net/order/create?user_id=3ced5134eee011eda1375254001e7c00"
-          ]
-        }
-      }
-    },
-    {
       "url": "Achuan-2/siyuan-themes-tsundoku@3759aea3daa6bac02be2b35f68102b91b33fa405",
       "updated": "2023-08-29T02:21:45Z",
       "stars": 72,
@@ -356,45 +435,6 @@
       }
     },
     {
-      "url": "royc01/notion-theme@8fd8fe6c234edd8bbb6eb1ca2431c529913fcc0c",
-      "updated": "2023-08-22T14:37:34Z",
-      "stars": 90,
-      "openIssues": 9,
-      "size": 2141395,
-      "package": {
-        "name": "Savor",
-        "author": "Roy",
-        "url": "https://github.com/royc01/notion-theme",
-        "version": "3.5.6",
-        "minAppVersion": "",
-        "backends": null,
-        "frontends": null,
-        "displayName": {
-          "default": "Savor",
-          "zh_CN": "写未",
-          "en_US": ""
-        },
-        "description": {
-          "default": "You said you couldn’t bear to consume such a feeling.",
-          "zh_CN": "你说你舍不得吃掉这一种感觉。",
-          "en_US": ""
-        },
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": ""
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://afdian.net/a/Savor"
-          ]
-        }
-      }
-    },
-    {
       "url": "LaneDu/Knowledge-Brain@8fb4ccc9669e9b8c77230e49ba6c084c4e801460",
       "updated": "2023-08-16T09:43:59Z",
       "stars": 20,
@@ -468,46 +508,6 @@
           "github": "",
           "custom": [
             "https://afdian.net/a/MingKing"
-          ]
-        }
-      }
-    },
-    {
-      "url": "Zuoqiu-Yingyi/siyuan-theme-dark-plus@217d6fdf304f702d63af1f783a6d7ad14be8b231",
-      "updated": "2023-08-11T15:39:26Z",
-      "stars": 132,
-      "openIssues": 11,
-      "size": 10032734,
-      "package": {
-        "name": "Dark+",
-        "author": "Zuoqiu Yingyi",
-        "url": "https://github.com/Zuoqiu-Yingyi/siyuan-theme-dark-plus",
-        "version": "1.10.0",
-        "minAppVersion": "2.9.9",
-        "backends": null,
-        "frontends": null,
-        "displayName": {
-          "default": "Dark+",
-          "zh_CN": "暗色+",
-          "en_US": ""
-        },
-        "description": {
-          "default": "This is a multifunctional dual-mode theme",
-          "zh_CN": "这是一款多功能双模式主题",
-          "en_US": ""
-        },
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": ""
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://afdian.net/a/zuoqiu",
-            "https://ko-fi.com/zuoqiu"
           ]
         }
       }
